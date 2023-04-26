@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+
+
+
+body {
+    background-image: linear-gradient(to left, #0A3A40, #042326);
+}
+
+main {
+    margin: auto;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px  #0F5959;
+    width: 600px;
+    padding: 10px;
+    
+}
+h1 {
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Lovers Quarrel', cursive;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: 'Lovers Quarrel', cursive;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    color: rgb(0, 0, 0); 
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+li {
+    font-family: 'Open Sans', sans-serif;
+}
+
+img {
+    height: 300px;
+    margin: left;
+    display: block;
+    margin-top: -50%;
+}
